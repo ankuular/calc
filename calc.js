@@ -38,3 +38,5 @@ function calc(operation, a, b) {
 }
 
 calc(operation, a, b);
+
+console.log('andrey loh');
